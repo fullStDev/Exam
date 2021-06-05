@@ -1,0 +1,14 @@
+C:\Users\ВАДИМ\source\repos\ErmakovTicket№7\bin\Debug\ErmakovTicket№7.exe.config
+C:\Users\ВАДИМ\source\repos\ErmakovTicket№7\bin\Debug\ErmakovTicket№7.exe
+C:\Users\ВАДИМ\source\repos\ErmakovTicket№7\bin\Debug\ErmakovTicket№7.pdb
+C:\Users\ВАДИМ\source\repos\ErmakovTicket№7\obj\Debug\ErmakovTicket№7.csprojAssemblyReference.cache
+C:\Users\ВАДИМ\source\repos\ErmakovTicket№7\obj\Debug\ErmakovTicket№7.csproj.CoreCompileInputs.cache
+C:\Users\ВАДИМ\source\repos\ErmakovTicket№7\obj\Debug\ErmakovTicket№7.exe
+C:\Users\ВАДИМ\source\repos\ErmakovTicket№7\obj\Debug\ErmakovTicket№7.pdb
+D:\Exam\ErmakovTicket№7\bin\Debug\ErmakovTicket№7.exe.config
+D:\Exam\ErmakovTicket№7\bin\Debug\ErmakovTicket№7.exe
+D:\Exam\ErmakovTicket№7\bin\Debug\ErmakovTicket№7.pdb
+D:\Exam\ErmakovTicket№7\obj\Debug\ErmakovTicket№7.csprojAssemblyReference.cache
+D:\Exam\ErmakovTicket№7\obj\Debug\ErmakovTicket№7.csproj.CoreCompileInputs.cache
+D:\Exam\ErmakovTicket№7\obj\Debug\ErmakovTicket№7.exe
+D:\Exam\ErmakovTicket№7\obj\Debug\ErmakovTicket№7.pdb
